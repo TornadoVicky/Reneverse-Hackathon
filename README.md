@@ -28,3 +28,10 @@ Player 2
 2. Right Ctrl - Attack
 3. Right Shift - Slide
 4. Spacebar - Time Stop (only for ground enemies)
+
+Video:
+
+
+
+https://github.com/TornadoVicky/Reneverse-Hackathon/assets/98550942/ba85e8da-1e1c-47eb-9ae8-a8366c6669fa
+
