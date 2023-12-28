@@ -1,6 +1,14 @@
 # Reneverse-Hackathon
 Game Hackathon Submission - Shadowed Realms : Conquest of the Abyss
 
+Development Team :
+1. Shubham Kumar
+2. Rohan K V
+3. Shaik Mustaq Basha
+4. Saeema Tarannum
+
+Misc. Details
+
 1. Desktop version supports asset minting.
 2. To mint assets a Reneverse account is required, allow connection from Reneverse Dashboard after entering the email id in-game.
 3. Once the game is successfully completed, it will be possible to mint the assets of your choice (out of 8 assets curretly).
